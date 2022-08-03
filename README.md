@@ -15,3 +15,10 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Delete Nodes Greater than K](https://practice.geeksforgeeks.org/problems/delete-nodes-greater-than-k/1)
 * [Maximum Index](https://practice.geeksforgeeks.org/problems/maximum-index-1587115620/1)
 * [Kth Smallest element (using randomized quick select)](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
+
+#### August 3, 2022
+* [My Calendar I](https://leetcode.com/problems/my-calendar-i/)
+* [Preorder to BST](https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1)
+* [Subsets](https://leetcode.com/problems/subsets/)
+* [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+* [Gray Code](https://leetcode.com/problems/gray-code/)
