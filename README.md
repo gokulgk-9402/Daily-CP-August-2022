@@ -22,3 +22,10 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Subsets](https://leetcode.com/problems/subsets/)
 * [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 * [Gray Code](https://leetcode.com/problems/gray-code/)
+
+#### August 4, 2022
+* [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
+* [Complete Binary Tree](https://practice.geeksforgeeks.org/problems/complete-binary-tree/1)
+* [Simplify Path](https://leetcode.com/problems/simplify-path/)
+* [First letter to appear twice](https://leetcode.com/problems/first-letter-to-appear-twice/)
+* [Sender with Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)
