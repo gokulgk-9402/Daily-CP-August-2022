@@ -29,3 +29,10 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Simplify Path](https://leetcode.com/problems/simplify-path/)
 * [First letter to appear twice](https://leetcode.com/problems/first-letter-to-appear-twice/)
 * [Sender with Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/)
+
+#### August 5, 2022
+* [Combination sum IV](https://leetcode.com/problems/combination-sum-iv/)
+* [X total Shapes](https://practice.geeksforgeeks.org/problems/x-total-shapes3617/1)
+* [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
+* [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+* [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)
