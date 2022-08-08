@@ -36,3 +36,11 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 * [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 * [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)
+
+#### August 6, 2022
+* [Poor Pigs](https://leetcode.com/problems/poor-pigs/)
+
+#### August 8, 2022
+* [Josephus Problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
+* [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/)
+* [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
