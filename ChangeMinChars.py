@@ -1,49 +1,27 @@
 from typing import Counter
 
-
 class Solution:
     def minCharacters(self, a: str, b: str) -> int:
-        a_str = list(a)
-        b_str = list(b)
+        counterA = Counter(a)
+        counterB = Counter(b)
 
-        min_b = min(b_str)
-        max_b = max(b_str)
-        min_a = min(a_str)
-        max_a = max(a_str)
+        l1 = [counterA.get("a",0)]
+        l2 = [counterB.get("a", 0)]
 
-        if min_b > max_a:
-            return 0
+        lena = len(a)
+        lenb = len(b)
 
-        if min_a > max_b:
-            return 0
+        v3 = lena + lenb - max(counterA.values()) - max(counterB.values())
 
-        v1 = 0
-        for letter in b_str:
-            if letter <= max_a:
-                v1 += 1
+        v1 = v2 = lena + lenb
 
-        v2 = 0
-        for letter in a_str:
-            if letter >= min_b:
-                v2 += 1
+        for i in range(1, 26):
+            l1.append(counterA.get(chr(97+i), 0) + l1[-1])
+            l2.append(counterB.get(chr(97+i), 0) + l2[-1])
 
-        v1 = min(v1, v2)
-
-        v2 = 0
-        for letter in a_str:
-            if letter <= max_b:
-                v2 += 1
-        
-        v3 = 0
-        for letter in b_str:
-            if letter >= min_a:
-                v3 += 1
-
-        v2 = min(v2, v3)
-
-        ctr = Counter(list(a+b))
-        v3 = len(a+b) - max(ctr.values())
+            v1 = min(lena - l1[i-1] + l2[i-1], v1)
+            v2 = min(lenb - l2[i-1] + l1[i-1], v2)
 
         return min(v1, v2, v3)
 
-print(Solution().minCharacters(a = "aba", b = "caa"))
+print(Solution().minCharacters(a = "ace", b = "abe"))

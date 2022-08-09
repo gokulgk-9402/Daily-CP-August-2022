@@ -49,5 +49,5 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Binary trees with factors](https://leetcode.com/problems/binary-trees-with-factors/)
 * [Number Of burgers with No waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)
 * [Nine Divisors](https://practice.geeksforgeeks.org/problems/nine-divisors3751/1)
-* [Change Minimum Characters]
+* [Change Minimum Characters](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/)
 * [Make the String Great](https://leetcode.com/problems/make-the-string-great/)
