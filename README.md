@@ -44,3 +44,10 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Josephus Problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)
 * [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/)
 * [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
+
+#### August 9, 2022
+* [Binary trees with factors](https://leetcode.com/problems/binary-trees-with-factors/)
+* [Number Of burgers with No waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)
+* [Nine Divisors](https://practice.geeksforgeeks.org/problems/nine-divisors3751/1)
+* [Change Minimum Characters]
+* [Make the String Great](https://leetcode.com/problems/make-the-string-great/)
