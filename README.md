@@ -51,3 +51,10 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Nine Divisors](https://practice.geeksforgeeks.org/problems/nine-divisors3751/1)
 * [Change Minimum Characters](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/)
 * [Make the String Great](https://leetcode.com/problems/make-the-string-great/)
+
+#### August 10, 2022
+* [Convert Sorted Array To Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+* [Maximum Number of Events that can be attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)
+* [Make sum divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/)
+* [Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/)
+* Implementing simple Hash map from scratch in python
