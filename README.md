@@ -58,3 +58,11 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [Make sum divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/)
 * [Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/)
 * Implementing simple Hash map from scratch in python
+
+#### August 11, 2022
+* [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+* [Plots of Gold Game](https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1)
+* [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)
+
+#### August 12, 2022
+* [Case-specific sorting of strings](https://practice.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1)
