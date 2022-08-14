@@ -66,3 +66,7 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 
 #### August 12, 2022
 * [Case-specific sorting of strings](https://practice.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1)
+
+#### August 14, 2022
+* [Max Length Chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
+* [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1)
