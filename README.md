@@ -70,3 +70,7 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### August 14, 2022
 * [Max Length Chain](https://practice.geeksforgeeks.org/problems/max-length-chain/1)
 * [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1)
+
+#### August 15, 2022
+* [Last Moment before all ants fall out of a plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)
+* [Maximum score after splitting a string](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
