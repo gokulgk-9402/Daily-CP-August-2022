@@ -74,3 +74,9 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### August 15, 2022
 * [Last Moment before all ants fall out of a plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)
 * [Maximum score after splitting a string](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)
+
+#### August 16, 2022
+* [Fact Digit Sum](https://practice.geeksforgeeks.org/problems/fact-digit-sum4125/1)
+* [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+* [Number of Ways to buy pens and pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/)
+* [Binary Subarrays with Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
