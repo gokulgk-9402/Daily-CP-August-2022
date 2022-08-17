@@ -80,3 +80,7 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 * [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 * [Number of Ways to buy pens and pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/)
 * [Binary Subarrays with Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
+
+#### August 17, 2022
+* [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+* [Knight Walk](https://practice.geeksforgeeks.org/problems/knight-walk4521/1)
