@@ -84,3 +84,7 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### August 17, 2022
 * [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 * [Knight Walk](https://practice.geeksforgeeks.org/problems/knight-walk4521/1)
+
+#### August 18, 2022
+* [Reduce Array Size to the Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
+* [Longest Subarray with sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
