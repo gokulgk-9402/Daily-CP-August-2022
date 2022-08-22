@@ -88,3 +88,7 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### August 18, 2022
 * [Reduce Array Size to the Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
 * [Longest Subarray with sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
+
+#### August 22, 2022
+* [Power of Four](https://leetcode.com/problems/power-of-four/)
+* [Immediate Smalleer Element](https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1)
