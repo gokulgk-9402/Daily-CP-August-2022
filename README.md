@@ -92,3 +92,7 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### August 22, 2022
 * [Power of Four](https://leetcode.com/problems/power-of-four/)
 * [Immediate Smalleer Element](https://practice.geeksforgeeks.org/problems/immediate-smaller-element1142/1)
+
+#### August 23, 2022
+* [Foldable Binary Tree](https://practice.geeksforgeeks.org/problems/foldable-binary-tree/1)
+* [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
