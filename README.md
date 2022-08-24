@@ -96,3 +96,8 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### August 23, 2022
 * [Foldable Binary Tree](https://practice.geeksforgeeks.org/problems/foldable-binary-tree/1)
 * [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+* [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+
+#### August 24, 2022
+* [Power of Three](https://leetcode.com/problems/power-of-three/)
+* [Generate IP Addresses](https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1)
