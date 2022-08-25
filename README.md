@@ -104,3 +104,4 @@ My solutions for CP problems that I try/solve during the month of August 2022.
   
 #### August 25, 2022
 * [Counting elements in 2 arrays](https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1)
+* [Ransom Note](https://leetcode.com/problems/ransom-note/)
