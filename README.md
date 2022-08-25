@@ -101,3 +101,6 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### August 24, 2022
 * [Power of Three](https://leetcode.com/problems/power-of-three/)
 * [Generate IP Addresses](https://practice.geeksforgeeks.org/problems/generate-ip-addresses/1)
+  
+#### August 25, 2022
+* [Counting elements in 2 arrays](https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1)
