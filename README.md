@@ -105,3 +105,10 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### August 25, 2022
 * [Counting elements in 2 arrays](https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1)
 * [Ransom Note](https://leetcode.com/problems/ransom-note/)
+
+#### August 26, 2022
+* [Reorder Power of 2](https://leetcode.com/problems/reordered-power-of-2/)
+
+#### August 27, 2022
+* [Alternate Positive and Negative Numbers](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)
+* [Max Sum of Rectangle No larger than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
