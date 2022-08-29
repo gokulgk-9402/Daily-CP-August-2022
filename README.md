@@ -116,3 +116,7 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### August 28, 2022
 * [Sort the matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)
 * [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1)
+
+#### August 29, 2022
+* [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+* [Next Right Node](https://practice.geeksforgeeks.org/problems/next-right-node/1)
