@@ -120,3 +120,7 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### August 29, 2022
 * [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 * [Next Right Node](https://practice.geeksforgeeks.org/problems/next-right-node/1)
+
+#### August 30, 2022
+* [Rotate Image](https://leetcode.com/problems/rotate-image/submissions/)
+* [Merge Details](https://practice.geeksforgeeks.org/problems/merging-details/1)
