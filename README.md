@@ -124,3 +124,8 @@ My solutions for CP problems that I try/solve during the month of August 2022.
 #### August 30, 2022
 * [Rotate Image](https://leetcode.com/problems/rotate-image/submissions/)
 * [Merge Details](https://practice.geeksforgeeks.org/problems/merging-details/1)
+
+#### August 31, 2022
+* [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+* [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
+* [Find all distinct subset sums](https://practice.geeksforgeeks.org/problems/find-all-distinct-subset-or-subsequence-sums4424/1)
